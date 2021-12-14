@@ -1,0 +1,51 @@
+p{
+	color: white;
+
+}
+h1{
+	color: blue;
+
+}
+h1{
+	background color:blue; 
+
+}
+h2{
+	color: indigo;
+
+
+
+
+ 
+h2{
+color: brown;	
+}
+h1{
+color: red; 	
+}
+h3{
+color: indigo;	
+}
+h4{
+	color: 
+}
+
+
+
+h1, h2, h3, h4, h5 {
+	color: yellow; color: brown; color: pink; color: green; color: indigo;
+
+
+
+
+body{
+background-image: url("R (1).jpg");
+background-repeat:no-repeat;
+background-position: right top;
+background-attachment: fixed;
+background-size: cover;
+}
+div{margin: 50px; padding: 5px; border: 10px solid black;
+	border-radius: 10%;
+
+}

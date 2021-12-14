@@ -1,0 +1,62 @@
+.container-full {
+	width: 100%
+}
+
+
+.logo {
+	color: white;
+	font-weight: bold;
+}
+
+.navbar {
+	width: 100%
+	height: 10vh;
+	background-color: black;
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+ul {
+	display: flex;
+	justify-content: space-between;
+}
+ul li {
+	list-style: none;
+	padding: 0px 20px;
+}
+ul li a {
+	padding: 10px;
+	border: none solid white;
+}
+ul li a:hover {
+	background-color: white;
+	color: black;
+}
+h1{
+	text-align: center;
+}
+.pic img{
+	width: 100%;
+	height: 100vh;
+}
+
+.footer{
+	width: 100%;
+
+}
+.foot{
+	background-color: black;
+	margin-top: 0px;
+	color: white;
+}
+
+.righttext p{
+padding-left: 100px;
+padding-top: 10px;
+}
+.icons i{
+	margin: auto 30px;
+	padding-top: 10px;
+}
